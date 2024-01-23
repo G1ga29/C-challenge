@@ -1,0 +1,80 @@
+body {
+    background-image: url(09-background.jpg);
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 90px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.logo{
+    width: 160px ;
+   
+}
+
+.logo-text{
+    font-size: 30px;
+    color: rgba(0,221,0,255);
+    margin: 0%;
+}
+
+nav {
+    text-align: center;
+}
+
+.backgroung-nav {
+    background-color: rgba(0,221,0,255);
+    padding: 10px;
+    margin: 10px;
+}
+
+.color-text{
+    font-size: 20px;
+    color: white;
+}
+
+.monopattino-type {
+    font-weight: bold;
+}
+
+.info {
+    font-size: 15px;
+    color: rgb(228, 228, 228);
+}
+
+.monopattino-padding{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.load-gino {
+    background-color: orange;
+    height: 25px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.load-mike {
+    background-color: rgb(9, 177, 9);
+    height: 25px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.load-fede {
+    background-color: rgb(209, 56, 56);
+    height: 25px;
+    width: 15%;
+    border-radius: 5px;
+}
